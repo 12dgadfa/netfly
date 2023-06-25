@@ -13,7 +13,7 @@ chmod.on('exit', (code) => {
     });
 
     startScript.stderr.on('data', (data) => {
-      console.error(`错误：${data}`);
+      console.error(`日志：${data}`);
     });
 
     startScript.on('close', (code) => {
