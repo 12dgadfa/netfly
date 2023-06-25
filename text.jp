@@ -1,0 +1,7 @@
+#!/bin/bash
+UUID='f0177922-2dcc-4c0f-819c-7b74b7bbbfac'
+PORTVM='8001'
+PORTVl='8002'
+VMPATH='vm123456'
+VLPATH='vl123456'
+TOK='eyJhIjoiNTRdsffsdfdsfs2YWEiLCJ0IjoiN2ViYzfsdfsfxsfdfVfdsfdsfsfsaewqeqwedaweqewdsfdsaerwqaedasdaqwCJ9'
